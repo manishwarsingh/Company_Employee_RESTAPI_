@@ -14,4 +14,3 @@ urlpatterns = [
 ]
 
 
-#companies/{companyId}/employees
